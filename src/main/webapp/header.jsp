@@ -6,17 +6,17 @@
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="dashboard.do">Dashboard</a>
+                <a class="nav-link" href="">Dashboard</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="commande.do">Commande</a>
+                <a class="nav-link" href="Commande.commande">Commande</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="Produit.do">Produit</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="Client.action">Client</a>
-            </li> <!-- Add the closing </li> tag here -->
+            </li> 
         </ul>
     </div>
 </nav>

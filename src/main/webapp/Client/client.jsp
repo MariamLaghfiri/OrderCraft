@@ -12,7 +12,7 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	<%@include file="header.jsp" %>
+	<%@include file="../header.jsp" %>
 	<div class="container">
 		<table class="table">
 			<thead>

@@ -12,7 +12,7 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	<%@include file="header.jsp" %>
+	<%@include file="../header.jsp" %>
 	<div class="container">
 		<form action="UpdateClient.action" method="post">
 			<input type="hidden" name="id" value="${ id }" class="form-control" required="required">
